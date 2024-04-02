@@ -9,6 +9,16 @@ Reproduce in Colab [![Open In Colab](https://colab.research.google.com/assets/co
 
 ## Machine Learning Biclass, XAI and subgroup Discovery
 
+Control vs COVID-19
+Reproduce in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/resendislab/POST_COVID_Metabolome_MachineLearning/blob/main/ML/Biclass/Explainable_artificial_intelligence_(XAI)_and_XAI_embeddings_CTRLVSCOVID.ipynb)
+
+Control vs POST-COVID-19
+Reproduce in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/resendislab/POST_COVID_Metabolome_MachineLearning/blob/main/ML/Biclass/Explainable_artificial_intelligence_(XAI)_and_XAI_embeddings_CTRLVSPOSTCOVID.ipynb)
+
+COVID-19 vs POST-COVID-19
+Reproduce in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/resendislab/POST_COVID_Metabolome_MachineLearning/blob/main/ML/Biclass/Explainable_artificial_intelligence_(XAI)_and_XAI_embeddings_postcovidvscovid.ipynb)
+
+
 
 
 How to Use
