@@ -2,7 +2,7 @@
 
 Overview
 
-This repository hosts the Jupyter Notebooks and datasets used in our study "Exploring Metabolic Anomalies in COVID-19 and Post-COVID-19: A Machine Learning Approach with Explainable Artificial Intelligence". Our research employs machine learning (ML) and explainable artificial intelligence (XAI) to analyze metabolic alterations in COVID-19 and Post-COVID-19 patients.
+This repository hosts the Jupyter Notebooks and datasets used in our study "Exploring Metabolic Anomalies in COVID-19 and Post-COVID-19: A Machine Learning Approach with Explainable Artificial Intelligence". Our research employed machine learning (ML) and explainable artificial intelligence (XAI) to analyze metabolic alterations in COVID-19 and Post-COVID-19 patients.
 
 ## Machine Learning Multiclass XAI
 Reproduce in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/resendislab/POST_COVID_Metabolome_MachineLearning/blob/main/ML/MulticlassML_multiclass_XAI.ipynb)
