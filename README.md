@@ -25,8 +25,9 @@ How to Use
 
     Click on the "Open in Colab" link next to the notebook you wish to view.
     Google Colab will open in your web browser. You may need to sign in with your Google account.
-    Once in Colab, you can run the notebook cells sequentially to reproduce our analysis or modify the code to perform your analysis.
-
+    Once in Colab, you can run the notebook cells sequentially to reproduce our analysis or modify the code to perform your analysis.   
+    NOTE: After installing the different package versions please restart the kernel
+    
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
